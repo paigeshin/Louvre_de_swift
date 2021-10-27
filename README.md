@@ -21,7 +21,7 @@
 
 # Functionality - Functions 
 
-[SwiftUI go to settings](https://www.notion.so/SwiftUI-go-to-settings-e191999d899b4c0ea04bbe2d92040a6b)
+[go to settings](https://www.notion.so/SwiftUI-go-to-settings-e191999d899b4c0ea04bbe2d92040a6b)
 
 [Start TTS](https://www.notion.so/Start-TTS-51d077b47dbe40d694b76ab7e763392f)
 
