@@ -39,11 +39,10 @@
 
 # Functionality - System
 
-[SwiftUI, launch screen with storyboard](https://www.notion.so/SwiftUI-launch-screen-with-storyboard-4e61a5f399b14e4286651e6e33a1becf)
-
 [Localization ](https://www.notion.so/Localization-9613c84268dd45508a5675af83c96a59)
 
 [Localize with user selection](https://www.notion.so/Localize-with-user-selection-366ca22d8025456e822598bd1a3362d5)
 
-[SwiftUI, App State Handling For Views ](https://www.notion.so/SwiftUI-App-State-Handling-For-Views-8bf3aa0c318d4b9cab1f0eb5c1427607)
+# xCode
 
+[Swift Amazing Tools](https://heydavethedev.medium.com/5-amazing-tools-for-every-ios-developer-db244281ec51)
