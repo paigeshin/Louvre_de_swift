@@ -46,3 +46,13 @@
 # xCode
 
 [Swift Amazing Tools](https://heydavethedev.medium.com/5-amazing-tools-for-every-ios-developer-db244281ec51)
+
+# Essential Libraries
+
+[Snapkit Tutorial for UIViewRepresentable](https://www.notion.so/Snapkit-Tutorial-7d921363dcc84ce19ecd0963491f991e)
+
+[Snapkit Tutorial on git](https://github.com/paigeshin/Snapkit-Tutorial)
+
+[Moya Tutorial](https://www.notion.so/Moya-Tutorial-fae21819c519446ca059832975810f91)
+
+[Moya Tutorial on git](https://github.com/paigeshin/moya_tutorial)
