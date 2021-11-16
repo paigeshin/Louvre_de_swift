@@ -57,6 +57,10 @@
 
 [In App Free Period](https://stackoverflow.com/questions/12297342/how-to-set-up-in-app-purchase-free-trial-period-in-ios-app)
 
+# Swift Language
+
+[Case Iterable](https://www.notion.so/Swift-with-CaseIterable-43cd62b05bed473c832273f6ee8c6e83)
+
 # xCode
 
 [Swift Amazing Tools](https://heydavethedev.medium.com/5-amazing-tools-for-every-ios-developer-db244281ec51)
