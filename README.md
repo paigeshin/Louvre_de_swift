@@ -31,17 +31,31 @@
 
 [App Review Request](https://www.notion.so/App-Review-Request-a6787596429945d89d175c0c5828ced1)
 
+[Open other app](https://www.notion.so/Open-other-app-05e5d28b60514ebbae878f1317ee1871)
 
 # URL 
 
 [SwiftUI allow other characters such as korean and chinese characters for `open` URL](https://www.notion.so/SwiftUI-allow-other-characters-such-as-korean-and-chinese-characters-for-open-URL-f90d9ab3dc1149d1aeb52c45d1539cd4)
 
+# App Reference
+
+[Alarmy App, how does it work?](https://www.notion.so/Alarmy-App-how-does-it-work-f8b0d63ba73c4bc19208577a55d59ea7)
 
 # Functionality - System
+
+[Advanced Directory Structure](https://www.notion.so/Advanced-Directory-Structure-5817f7b2ba9742e3b2e90a30f5b40c4e)
 
 [Localization ](https://www.notion.so/Localization-9613c84268dd45508a5675af83c96a59)
 
 [Localize with user selection](https://www.notion.so/Localize-with-user-selection-366ca22d8025456e822598bd1a3362d5)
+
+# Apple Watch
+
+[Apple Watch API REF](https://www.notion.so/Apple-Watch-API-REF-282c173429f04ed3aa34e32bfbd92d58)
+
+# In App
+
+[In App Free Period](https://stackoverflow.com/questions/12297342/how-to-set-up-in-app-purchase-free-trial-period-in-ios-app)
 
 # xCode
 
