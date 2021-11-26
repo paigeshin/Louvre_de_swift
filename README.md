@@ -33,6 +33,68 @@
 
 [Open other app](https://www.notion.so/Open-other-app-05e5d28b60514ebbae878f1317ee1871)
 
+# Hack 
+
+[find url scheme of ios App](https://stackoverflow.com/questions/56363894/how-to-get-the-uri-scheme-of-any-app-for-applinks-universal-linking)
+
+[how to find bundle identifier](https://mrvirk.com/how-to-find-app-bundle-id-ios.html)
+
+# HeathKit
+
+[Apple Watch - 심박수](https://www.notion.so/Apple-Watch-2ec895ec327c4d6da37dba38be44ca29)
+
+[heartrate](https://stackoverflow.com/questions/35039742/ios-get-heart-rate-from-apple-watch-in-near-real-time) 
+
+[heartrate from watch to app](https://stackoverflow.com/questions/53780808/how-to-get-heart-rate-data-near-by-real-time-from-health-kit-in-ios)
+
+[Swift HealthKit get heart rate](https://www.notion.so/Swift-HealthKit-get-heart-rate-002966d828934cf4aeb5badaa13db952)
+
+# Enum
+
+[Enum with protocol](https://www.notion.so/Enum-with-protocol-2ecd87d669d0458fb54920fdea67cbe1)
+
+# Protocol
+
+[protocol tutorial](https://www.notion.so/protocol-tutorial-6039971ee5ea4201af81967305b501f8)
+
+[OOP vs POP](https://www.notion.so/OOP-vs-POP-8054b75f0c0c450898703147ff9eac71)
+
+[Enum with protocol](https://www.notion.so/Enum-with-protocol-2ecd87d669d0458fb54920fdea67cbe1)
+
+[Conditional Extension Protocol](https://www.notion.so/Conditional-Extension-Protocol-04087d21c57a4f9a94a6d0d1d692e4fd)
+
+# Combine 
+
+[Combine Framework  Tutorial](https://www.notion.so/Combine-Framework-Tutorial-8dd1f85df2d34e4a9e3c3dbee4188044)
+
+# Date 
+
+[Swift Locale Date String](https://www.notion.so/Swift-Locale-Date-String-5551333483294e289302ef68f352b0b2)
+
+# Motion
+
+[Get Motion Data ](https://www.notion.so/Get-Motion-Data-2ff5401cb5c04bfb9e91ad68252a5474)
+
+# Watch
+
+[heartrate from watch to app](https://stackoverflow.com/questions/53780808/how-to-get-heart-rate-data-near-by-real-time-from-health-kit-in-ios)
+
+[iphone - applewatch, how to build workout app](https://medium.com/@gorillalogic/apple-watch-healthkit-developer-tutorial-how-to-build-a-workout-app-de156733dd6a) 
+
+[What is complication?](https://developer.apple.com/documentation/clockkit/creating_complications_for_your_watchos_app)
+
+[difference between watchkit and watch extension](https://stackoverflow.com/questions/52687924/ios-watchos-what-is-the-difference-between-watchkit-app-and-watchkit-app-exten)
+
+[WatchKit - About Notification Scene](https://www.notion.so/WatchKit-About-Notification-Scene-41f6e9ab42c34ac3a2c54b7a31f5b279)
+
+[Apple Watch - 심박수](https://www.notion.so/Apple-Watch-2ec895ec327c4d6da37dba38be44ca29)
+
+[https://developer.apple.com/documentation/watchconnectivity/wcsession](https://developer.apple.com/documentation/watchconnectivity/wcsession)
+
+[https://developer.apple.com/documentation/watchconnectivity/wcsessiondelegate](https://developer.apple.com/documentation/watchconnectivity/wcsessiondelegate)
+
+[Watch & Phone Communication Basic](https://www.notion.so/Watch-Phone-Communication-Basic-b9e111a9bf4e451da0f607af875bedfe)
+
 # URL 
 
 [SwiftUI allow other characters such as korean and chinese characters for `open` URL](https://www.notion.so/SwiftUI-allow-other-characters-such-as-korean-and-chinese-characters-for-open-URL-f90d9ab3dc1149d1aeb52c45d1539cd4)
