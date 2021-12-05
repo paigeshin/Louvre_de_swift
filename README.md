@@ -53,6 +53,8 @@
 
 [Enum with protocol](https://www.notion.so/Enum-with-protocol-2ecd87d669d0458fb54920fdea67cbe1)
 
+[Result Type mostly for networking](https://www.youtube.com/watch?v=8aPjqLqUEKA)
+
 # Protocol
 
 [protocol tutorial](https://www.notion.so/protocol-tutorial-6039971ee5ea4201af81967305b501f8)
@@ -70,6 +72,8 @@
 # Date 
 
 [Swift Locale Date String](https://www.notion.so/Swift-Locale-Date-String-5551333483294e289302ef68f352b0b2)
+
+[get minutes between dates ](https://www.notion.so/get-minutes-between-dates-f0f4b372a67a41f58dad39a85cacd21a)
 
 # Motion
 
@@ -95,6 +99,18 @@
 
 [Watch & Phone Communication Basic](https://www.notion.so/Watch-Phone-Communication-Basic-b9e111a9bf4e451da0f607af875bedfe)
 
+# System
+
+[network connectivity](https://www.youtube.com/watch?v=WjJBRhPiM_I)
+
+[Network Monitor](https://www.notion.so/Network-Monitor-28425a181e174d7db1a8a82c4fe3ab6c)
+
+[ios background task](https://swiftuirecipes.com/blog/networking-with-background-tasks-in-ios-13)
+
+# Healthkit
+
+[swift Sleep Data](https://benoitpasquier.com/sleep-healthkit/)
+
 # URL 
 
 [SwiftUI allow other characters such as korean and chinese characters for `open` URL](https://www.notion.so/SwiftUI-allow-other-characters-such-as-korean-and-chinese-characters-for-open-URL-f90d9ab3dc1149d1aeb52c45d1539cd4)
@@ -119,6 +135,8 @@
 
 [In App Free Period](https://stackoverflow.com/questions/12297342/how-to-set-up-in-app-purchase-free-trial-period-in-ios-app)
 
+[Sandbox Users for inapp test](https://appstoreconnect.apple.com/access/testers)
+
 # Swift Language
 
 [Case Iterable](https://www.notion.so/Swift-with-CaseIterable-43cd62b05bed473c832273f6ee8c6e83)
@@ -128,6 +146,26 @@
 [Swift Amazing Tools](https://heydavethedev.medium.com/5-amazing-tools-for-every-ios-developer-db244281ec51)
 
 # Essential Libraries
+
+[https://ios-development.tistory.com/731?category=899471](https://ios-development.tistory.com/731?category=899471)
+
+[https://ios-development.tistory.com/730?category=899471](https://ios-development.tistory.com/730?category=899471)
+
+[https://ios-development.tistory.com/732?category=899471](https://ios-development.tistory.com/732?category=899471)
+
+[https://ios-development.tistory.com/733?category=899471](https://ios-development.tistory.com/733?category=899471)
+
+[Alamofire Event Logger](https://www.notion.so/Alamofire-Event-Logger-32b284926e164eabb0b47341e5003d10)
+
+[Authenticator Interceptor](https://www.notion.so/Authenticator-Interceptor-f6e159a15f6e42a8bb3a4f674918c50b)
+
+[Alamofire interceptor](https://www.notion.so/Alamofire-interceptor-b55392351d884b2fbef7197590585f24)
+
+[Alamofire abstraction layer without moya](https://www.notion.so/Alamofire-abstraction-layer-without-moya-ca6a717cfb644c7a958a7564095b2096)
+
+[Alamofire Interceptor](https://www.youtube.com/watch?v=l6kRGTvgLKA)
+
+[Moya Multipart](https://stackoverflow.com/questions/49568660/how-to-upload-image-using-multipart-request-with-moya-swift/50089462)
 
 [Snapkit Tutorial for UIViewRepresentable](https://www.notion.so/Snapkit-Tutorial-7d921363dcc84ce19ecd0963491f991e)
 
