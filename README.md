@@ -33,6 +33,20 @@
 
 [Open other app](https://www.notion.so/Open-other-app-05e5d28b60514ebbae878f1317ee1871)
 
+# Grammar
+
+[Fallthrough](https://0urtrees.tistory.com/134)
+
+[Fallthrough](https://www.notion.so/Fallthrough-9997f64427114a08bb270ca8a23aafa8)
+
+[Enum](https://www.notion.so/Enum-0d7657f4aae340789e9ca33e267a189d)
+
+[Control flow](https://www.notion.so/Control-flow-9ddaa7c8b5114538958c9dc8db0ee528)
+
+[Access Modifier](https://www.notion.so/Access-Modifier-886643451c45492bb78230db7dc1b62b)
+
+[Protocol Oriented](https://www.notion.so/Protocol-Oriented-04e5586b354f428eaa136a7504c2aac3)
+
 # Hack 
 
 [find url scheme of ios App](https://stackoverflow.com/questions/56363894/how-to-get-the-uri-scheme-of-any-app-for-applinks-universal-linking)
