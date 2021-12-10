@@ -65,6 +65,8 @@
 
 # Enum
 
+[Enum Grammar ](https://www.notion.so/Enum-Grammar-1d4770ddbdb645339e8fecbe867b83e7)
+
 [Enum with protocol](https://www.notion.so/Enum-with-protocol-2ecd87d669d0458fb54920fdea67cbe1)
 
 [Result Type mostly for networking](https://www.youtube.com/watch?v=8aPjqLqUEKA)
@@ -152,6 +154,8 @@
 [Sandbox Users for inapp test](https://appstoreconnect.apple.com/access/testers)
 
 # Swift Language
+
+[Enum Grammar ](https://www.notion.so/Enum-Grammar-1d4770ddbdb645339e8fecbe867b83e7)
 
 [Case Iterable](https://www.notion.so/Swift-with-CaseIterable-43cd62b05bed473c832273f6ee8c6e83)
 
