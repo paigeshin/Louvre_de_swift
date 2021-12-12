@@ -135,6 +135,10 @@
 
 [Alarmy App, how does it work?](https://www.notion.so/Alarmy-App-how-does-it-work-f8b0d63ba73c4bc19208577a55d59ea7)
 
+# ML
+
+[CreateML and Use it](https://github.com/paigeshin/coreml_createml_tutorial)
+
 # Functionality - System
 
 [Advanced Directory Structure](https://www.notion.so/Advanced-Directory-Structure-5817f7b2ba9742e3b2e90a30f5b40c4e)
