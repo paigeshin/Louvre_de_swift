@@ -101,6 +101,10 @@
 
 [get minutes between dates ](https://www.notion.so/get-minutes-between-dates-f0f4b372a67a41f58dad39a85cacd21a)
 
+# CS 
+
+[Declarative vs Imperative Programming](https://www.notion.so/Declarative-vs-Imperative-Programming-ed8395ab07574d7fa210729a008969c9)
+
 # Motion
 
 [Get Motion Data ](https://www.notion.so/Get-Motion-Data-2ff5401cb5c04bfb9e91ad68252a5474)
