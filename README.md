@@ -47,6 +47,16 @@
 
 [Protocol Oriented](https://www.notion.so/Protocol-Oriented-04e5586b354f428eaa136a7504c2aac3)
 
+[Sequence](https://www.notion.so/Sequence-c19595c78ee14cf49c80d27d7db998c9)
+
+[Hashable](https://www.notion.so/Hashable-83eea9a80e2f46edb0ffe7d7d70a01fc)
+
+[Equatable ](https://www.notion.so/Equatable-6710ec83a47d4f129cc2c63169b86011)
+
+[Subscript ](https://www.notion.so/Subscript-4dcec2cf89804b65acdd0bd067a53d25)
+
+[Convenience init](https://www.notion.so/Convenience-init-684c28157e4d42228f7fd59197ab16bb)
+
 # Hack 
 
 [find url scheme of ios App](https://stackoverflow.com/questions/56363894/how-to-get-the-uri-scheme-of-any-app-for-applinks-universal-linking)
@@ -123,9 +133,33 @@
 
 [ios background task](https://swiftuirecipes.com/blog/networking-with-background-tasks-in-ios-13)
 
+# Device Size
+
+[iphone sizes](https://kka7.tistory.com/46)
+
+# Background
+
+[BGTaskScheduler Example](https://medium.com/snowdog-labs/managing-background-tasks-with-new-task-scheduler-in-ios-13-aaabdac0d95b)
+
+[BGTaskScheduler](https://lemon-dev.tistory.com/entry/iOS-BackgroundTask-Framework-%EA%B0%84%EB%8B%A8-%EC%A0%95%EB%A6%AC)
+
+[Timer with background](https://github.com/paigeshin/SwiftUI-Timer-Background)
+
 # Healthkit
 
 [swift Sleep Data](https://benoitpasquier.com/sleep-healthkit/)
+
+# Privacy - Permission
+
+[Privacy - Permission Series](https://velog.io/@rlawnstn01023/XcodeInfo.plist-Privacy)
+
+[Privacy - Permission Series](https://velog.io/@rlawnstn01023/XcodeInfo.plist-Privacy)
+
+[Swift Privacy (Permission) List ](https://www.notion.so/Swift-Privacy-Permission-List-575b5f06cf864ce2a2cba3fb9ac4fda9)
+
+# File
+
+[Swift Read CSV](https://www.notion.so/Swift-Read-CSV-4369f38c6827427392faea806d7fefbd)
 
 # URL 
 
@@ -136,6 +170,8 @@
 [Alarmy App, how does it work?](https://www.notion.so/Alarmy-App-how-does-it-work-f8b0d63ba73c4bc19208577a55d59ea7)
 
 # ML
+
+[CreateML with mac playground](https://www.notion.so/CreateML-with-mac-playground-9230f084401347a2ad0f6c466778112b)
 
 [CreateML and Use it](https://github.com/paigeshin/coreml_createml_tutorial)
 
@@ -243,3 +279,7 @@
 [Build a workout app for Apple Watch ](https://www.notion.so/Build-a-workout-app-for-Apple-Watch-f544b6a03dc64cb6a0732d396a5d264b)
 
 [https://github.com/paigeshin/WWDC_Watch_WorkoutApp](https://github.com/paigeshin/WWDC_Watch_WorkoutApp)
+
+# Design Pattern
+
+[https://github.com/paigeshin/BriefSummaryOfDesignPatterns](https://github.com/paigeshin/BriefSummaryOfDesignPatterns)
