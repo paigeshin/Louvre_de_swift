@@ -107,7 +107,25 @@
 
 # Motion
 
+[CoreMotion](https://velog.io/@rose6649/IOS-CoreMotion-MotionActivityManager-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
+
 [Get Motion Data ](https://www.notion.so/Get-Motion-Data-2ff5401cb5c04bfb9e91ad68252a5474)
+
+# Math Formula
+
+[Swift average & standard deviation & variance ](https://www.notion.so/Swift-average-standard-deviation-variance-32396d3f6d994903ab230dd4e182170c)
+
+# Debug
+
+[EXC_BAD_ACCESS Debugging](https://jhnjslee.tistory.com/2)
+
+# xCode
+
+[EXC_BAD_ACCESS Debugging](https://jhnjslee.tistory.com/2)
+
+# Pod
+
+[Pod deintegration](https://www.notion.so/Pod-deintegration-d739825f4bdf46bab5ead5480aecfff3)
 
 # Watch
 
@@ -143,13 +161,35 @@
 
 # Background
 
+[Force app to be alive in background](https://www.notion.so/Force-app-to-be-alive-in-background-85adb4ad223d494cb060a9f440d1aedc)
+
 [BGTaskScheduler Example](https://medium.com/snowdog-labs/managing-background-tasks-with-new-task-scheduler-in-ios-13-aaabdac0d95b)
 
 [BGTaskScheduler](https://lemon-dev.tistory.com/entry/iOS-BackgroundTask-Framework-%EA%B0%84%EB%8B%A8-%EC%A0%95%EB%A6%AC)
 
 [Timer with background](https://github.com/paigeshin/SwiftUI-Timer-Background)
 
+# Tools
+
+[Firework Effect](https://www.youtube.com/watch?v=GhwTJPgkB2o)
+
+# Animation
+
+[Firework Effect](https://www.youtube.com/watch?v=GhwTJPgkB2o)
+
 # Healthkit
+
+[HealthKit Tutorial Ray.. more category types](https://www.raywenderlich.com/459-healthkit-tutorial-with-swift-getting-started)
+
+[https://github.com/paigeshin/HKQueries](https://github.com/paigeshin/HKQueries)
+
+[https://dmtopolog.com/healthkit-changes-observing/](https://dmtopolog.com/healthkit-changes-observing/)
+
+[HealthKit Tutorial Ray](https://www.raywenderlich.com/459-healthkit-tutorial-with-swift-getting-started)
+
+[https://www.devfright.com/healthkit/](https://www.devfright.com/healthkit/)
+
+[WWDC HKSampleSeriesQuery](https://developer.apple.com/videos/play/wwdc2019/218/)
 
 [swift Sleep Data](https://benoitpasquier.com/sleep-healthkit/)
 
