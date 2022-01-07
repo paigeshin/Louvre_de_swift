@@ -1,5 +1,42 @@
 # Extension, Swift Language, Not specific to UIKit and SwiftUI
 
+# Config
+
+[Ways to configure](https://www.notion.so/Ways-to-configure-64cf18054c094b8e954d6466c71511bd)
+
+[Keeping secrets in iOS App](https://syedhyderabbas.medium.com/keeping-secrets-in-ios-app-12c65f97f128)
+
+[How to set up different environments for your app development medium article](https://betterprogramming.pub/how-to-setup-different-environments-for-your-apps-development-d9dcaa10c033) 
+
+[new scheme, add with user custom setting, korean article](https://zeddios.tistory.com/705)
+
+[Configuration with new info.plist youtube tutorial](https://www.youtube.com/watch?v=8ugBWeIdSQg&t=833s)
+
+[Process Info](https://fluffy.es/launch-arguments-environment-variables/)
+
+[Custom Flag](https://babamba-playground.tistory.com/15)
+
+[Custom Flag more detailed](https://shockoe.com/ideas/development/how-to-setup-configurations-and-schemes-in-xcode/)
+
+[Preprocessor xCODE](https://eunjin3786.tistory.com/m/219)
+
+[Config with code](https://cocoacasts.com/tips-and-tricks-managing-build-configurations-in-xocde)
+
+[Config with xcconfig](https://ios-development.tistory.com/m/428)
+
+[Config with info.plist](https://www.youtube.com/watch?v=r242pYLr-Gg)
+
+[Config with xcconfig#2](https://ios-development.tistory.com/m/660)
+
+[Set Different Environment](https://www.notion.so/Set-Different-Environment-8bab20d4d4b0432e80742b419be6a43a)
+
+[fastlane guide](https://www.notion.so/fastlane-42730ad015c547f98a3aaae8a7059431)
+
+[Swift 전처리문](https://eunjin3786.tistory.com/219)
+
+[xcconfig in detail](https://nshipster.com/xcconfig/)
+
+[How to implement App Receipt Validation](https://blog.apphud.com/receipt-validation/)
 
 # Create Library
 
@@ -155,6 +192,12 @@
 
 [ios background task](https://swiftuirecipes.com/blog/networking-with-background-tasks-in-ios-13)
 
+[Info.plist localization](https://zeddios.tistory.com/369)
+
+# Localization
+
+[Info.plist localization](https://zeddios.tistory.com/369)
+
 # Device Size
 
 [iphone sizes](https://kka7.tistory.com/46)
@@ -169,6 +212,23 @@
 
 [Timer with background](https://github.com/paigeshin/SwiftUI-Timer-Background)
 
+[Make app stay alive](http://andrewmarinov.com/building-an-alarm-app-on-ios/)
+
+[https://stackoverflow.com/questions/50644978/how-are-some-alarm-apps-such-as-alarmy-able-to-play-a-sound-on-iphone-when-the-a](https://stackoverflow.com/questions/50644978/how-are-some-alarm-apps-such-as-alarmy-able-to-play-a-sound-on-iphone-when-the-a)
+
+[https://stackoverflow.com/questions/43538553/is-it-possible-to-build-an-alarm-clock-such-as-the-built-in-app-from-apple](https://stackoverflow.com/questions/43538553/is-it-possible-to-build-an-alarm-clock-such-as-the-built-in-app-from-apple)
+
+[Google Keywords for Alarmy Research](https://www.google.com/search?q=alarmy+app+plays+silent+sound&sxsrf=AOaemvJ0BE9a7n25rmD8mjbX5ylaDJTWbg%3A1641193531242&ei=O6DSYYmRDrGO2roPiJ6E8AU&ved=0ahUKEwjJmr-rgpX1AhUxh1YBHQgPAV4Q4dUDCA4&uact=5&oq=alarmy+app+plays+silent+sound&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABOgQIIxAnOg4ILhCABBCxAxDHARDRAzoRCC4QgAQQsQMQgwEQxwEQ0QM6DgguEIAEELEDEMcBEKMCOgoILhDHARDRAxBDOgsILhCABBDHARDRAzoFCAAQgAQ6EQguEIAEELEDEIMBEMcBEKMCOggIABCABBCxAzoFCC4QgAQ6BwgAEIAEEAo6BwgAELEDEEM6BAgAEEM6CAguEIAEELEDOgoIABCABBCHAhAUOgQIABAKOgQIABAeOgQIABATOgYIABAeEBM6CAgAEAgQHhATOgoIABAIEAoQHhATOgUIABDNAjoECCEQFToHCCEQChCgAUoECEEYAEoECEYYAFAAWOE6YIc8aANwAHgAgAGGAYgBpR6SAQQwLjMymAEAoAEBwAEB&sclient=gws-wiz](https://www.google.com/search?q=alarmy+app+plays+silent+sound&sxsrf=AOaemvJ0BE9a7n25rmD8mjbX5ylaDJTWbg%3A1641193531242&ei=O6DSYYmRDrGO2roPiJ6E8AU&ved=0ahUKEwjJmr-rgpX1AhUxh1YBHQgPAV4Q4dUDCA4&uact=5&oq=alarmy+app+plays+silent+sound&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABOgQIIxAnOg4ILhCABBCxAxDHARDRAzoRCC4QgAQQsQMQgwEQxwEQ0QM6DgguEIAEELEDEMcBEKMCOgoILhDHARDRAxBDOgsILhCABBDHARDRAzoFCAAQgAQ6EQguEIAEELEDEIMBEMcBEKMCOggIABCABBCxAzoFCC4QgAQ6BwgAEIAEEAo6BwgAELEDEEM6BAgAEEM6CAguEIAEELEDOgoIABCABBCHAhAUOgQIABAKOgQIABAeOgQIABATOgYIABAeEBM6CAgAEAgQHhATOgoIABAIEAoQHhATOgUIABDNAjoECCEQFToHCCEQChCgAUoECEEYAEoECEYYAFAAWOE6YIc8aANwAHgAgAGGAYgBpR6SAQQwLjMymAEAoAEBwAEB&sclient=gws-wiz)
+
+- Apps that play audible content to the user while in the background, such as a music player app
+- Apps that record audio content while in the background
+- Apps that keep users informed of their location at allntimes, such as a navigation app
+- Apps that support Voice over Internet Protocol (VoIP)
+- Apps that need to download and process new content regularly
+- Apps that receive regular updates from external accessories
+
+[App, Ways to keep alive in background](https://www.notion.so/App-Ways-to-keep-alive-in-background-f19eef803d1f4a9589a0b51ded903714)
+
 # Tools
 
 [Firework Effect](https://www.youtube.com/watch?v=GhwTJPgkB2o)
@@ -176,6 +236,14 @@
 # Animation
 
 [Firework Effect](https://www.youtube.com/watch?v=GhwTJPgkB2o)
+
+# Network
+
+[URLSession retry](https://www.cuvenx.com/post/using-automatic-api-request-retries)
+
+Set Interceptor for moya
+
+[Set Interceptor for moya code sample](https://www.notion.so/Set-Interceptor-for-moya-code-sample-159344157c0d4c379ad65f796ef7463a)
 
 # Healthkit
 
@@ -192,6 +260,22 @@
 [WWDC HKSampleSeriesQuery](https://developer.apple.com/videos/play/wwdc2019/218/)
 
 [swift Sleep Data](https://benoitpasquier.com/sleep-healthkit/)
+
+[Monitor your heart rate with Apple Watch](https://support.apple.com/en-om/HT204666)
+
+[How to measure your heart rate, no apple watch](https://www.imore.com/how-measure-your-heart-rate-iphone-no-apple-watch-or-external-monitor-required)
+
+# CI & CD
+
+[fastlane swift much easier tutorial](https://www.youtube.com/watch?v=zuoQS-ZFXW0)
+
+[CI & CD with github Actions iOS](https://ios-development.tistory.com/789)
+
+[fastlane swift youtube tutorial](https://www.youtube.com/watch?v=6Jz-Ywxki0U)
+
+[fastlane and Jenkins medium article](https://medium.com/flawless-app-stories/build-it-test-it-deliver-it-complete-ios-guide-on-continuous-delivery-with-fastlane-and-jenkins-cbe44e996ac5)
+
+[How to use fastlane online article](https://thinkdiff.net/how-to-use-fastlane-to-deploy-ios-app-fast-43346b15a618)
 
 # Privacy - Permission
 
@@ -212,6 +296,98 @@
 # App Reference
 
 [Alarmy App, how does it work?](https://www.notion.so/Alarmy-App-how-does-it-work-f8b0d63ba73c4bc19208577a55d59ea7)
+
+# Rejected
+
+[Data Collection and Storage](https://www.notion.so/Data-Collection-and-Storage-fc77a10912a44a5a92eb3303c98bacdb)
+
+[In App Purchase](https://www.notion.so/In-App-Purchase-bc8cd4b0989945cca6e90b3346e66115)
+
+[Business - Payments - Subscriptions](https://www.notion.so/Business-Payments-Subscriptions-c4b4fd8e89044d118f000f899127c562)
+
+[Performance - Software Requirements, Healthkit ](https://www.notion.so/Performance-Software-Requirements-Healthkit-25396d6e460f4f3ab8f5dd649f82b6c2)
+
+[IAP Not Showing](https://developer.apple.com/forums/thread/122896)
+
+[IAP Not Showing #2](https://developer.apple.com/forums/thread/8193)
+
+[IAP Not Showing #3](https://developer.apple.com/forums/thread/103379)
+
+[IAP Guide](https://www.techotopia.com/index.php/Building_In-App_Purchasing_into_iOS_8_Swift_Applications)
+
+[How to handle shouldAddStorePayment](https://stackoverflow.com/questions/46413981/how-to-handle-shouldaddstorepayment-for-in-app-purchases-in-ios-11)
+
+[Rejected InApp Receipt Validation](https://www.notion.so/Rejected-InApp-Receipt-Validation-a8a06c769ed1468d9c3eb9be290a90a5)
+
+[Receipt Validation](https://blog.apphud.com/receipt-validation/)
+[Validating Receipt, Apple Officiel doc](https://developer.apple.com/documentation/storekit/original_api_for_in-app_purchase/validating_receipts_with_the_app_store)
+
+[Create Shared Secret Key](https://documentation.qonversion.io/docs/app-specific-shared-secret)
+
+[Validate InApp Purchases](https://yalantis.com/blog/validating-in-app-purchases-through-your-own-server/)
+
+[IAP Issue to-do-list](https://www.notion.so/IAP-Issue-to-do-list-6f7c844c169c48288f54b52349742786)
+
+[Practical Example, Validate Receipt](https://blog.apphud.com/receipt-validation/)
+
+[Validate Receipt Practical Example 2](https://mobikul.com/in-app-subscription-receipt-validation-in-ios-using-swift/) 
+
+[Validate Receipt Docs](https://adapty.io/blog/ios-in-app-purchases-part-4-server-side-purchase-validation)
+
+[Validate Receipt Stackoverflow](https://stackoverflow.com/questions/32291701/iaps-actually-validating-the-receipt-swift)
+
+# InApp
+
+[In App Purchase](https://www.notion.so/In-App-Purchase-bc8cd4b0989945cca6e90b3346e66115)
+
+[Business - Payments - Subscriptions](https://www.notion.so/Business-Payments-Subscriptions-c4b4fd8e89044d118f000f899127c562)
+
+[Performance - Software Requirements, Healthkit ](https://www.notion.so/Performance-Software-Requirements-Healthkit-25396d6e460f4f3ab8f5dd649f82b6c2)
+
+[IAP Not Showing](https://developer.apple.com/forums/thread/122896)
+
+[IAP Not Showing #2](https://developer.apple.com/forums/thread/8193)
+
+[IAP Not Showing #3](https://developer.apple.com/forums/thread/103379)
+
+[IAP Guide](https://www.techotopia.com/index.php/Building_In-App_Purchasing_into_iOS_8_Swift_Applications)
+
+[How to handle shouldAddStorePayment](https://stackoverflow.com/questions/46413981/how-to-handle-shouldaddstorepayment-for-in-app-purchases-in-ios-11)
+
+[Rejected InApp Receipt Validation](https://www.notion.so/Rejected-InApp-Receipt-Validation-a8a06c769ed1468d9c3eb9be290a90a5)
+
+[Receipt Validation](https://blog.apphud.com/receipt-validation/)
+[Validating Receipt, Apple Officiel doc](https://developer.apple.com/documentation/storekit/original_api_for_in-app_purchase/validating_receipts_with_the_app_store)
+
+[Create Shared Secret Key](https://documentation.qonversion.io/docs/app-specific-shared-secret)
+
+[Validate InApp Purchases](https://yalantis.com/blog/validating-in-app-purchases-through-your-own-server/)
+
+[IAP Issue to-do-list](https://www.notion.so/IAP-Issue-to-do-list-6f7c844c169c48288f54b52349742786)
+
+[Practical Example, Validate Receipt](https://blog.apphud.com/receipt-validation/)
+
+[Validate Receipt Practical Example 2](https://mobikul.com/in-app-subscription-receipt-validation-in-ios-using-swift/) 
+
+[Validate Receipt Docs](https://adapty.io/blog/ios-in-app-purchases-part-4-server-side-purchase-validation)
+
+[Validate Receipt Stackoverflow](https://stackoverflow.com/questions/32291701/iaps-actually-validating-the-receipt-swift)
+
+[https://apps.apple.com/redeem/?ctx=offercodes&id=1595343211&code=CODE](https://apps.apple.com/redeem/?ctx=offercodes&id=1595343211&code=CODE)
+
+[Promotional Code](https://www.notion.so/Promotional-Code-5d1220fa822449bab97437ee35f63ba0)
+
+[discount](https://www.notion.so/discount-e6ec550fda9a47c199e8f74a16a45d71)
+
+[Difference between `Promotional Offers` and `Offer Codes`](https://denzhadanov.com/app-store-introduces-subscription-offer-codes-why-does-it-matter-ae755754653b)
+
+[https://denzhadanov.com/app-store-introduces-subscription-offer-codes-why-does-it-matter-ae755754653b](https://denzhadanov.com/app-store-introduces-subscription-offer-codes-why-does-it-matter-ae755754653b)
+
+[Promo code - Early Access](https://www.notion.so/Promo-code-Early-Access-60251b8acad84d22a0a69865e66d1925)
+
+[About App Promo Code](https://www.apptamin.com/blog/app-promo-codes/)
+
+[How users use App Promo Code](https://hayhouse.zendesk.com/hc/en-us/articles/115014498788-How-Do-I-Redeem-Promo-Codes-for-iTunes-App-Store-)
 
 # ML
 
@@ -318,6 +494,55 @@ https://github.com/paigeshin/advanced_swift
 [required initializer with protocol](https://www.notion.so/required-initializer-with-protocol-328bbcff384b4f61a958a151c5326a40)
 
 [Final Keyword](https://www.notion.so/Final-Keyword-63a5086234cd45beae71b0cf8c116ddd)
+
+# Rjected
+
+[In App Purchase](https://www.notion.so/In-App-Purchase-bc8cd4b0989945cca6e90b3346e66115)
+
+[Data Collection and Storage](https://www.notion.so/Data-Collection-and-Storage-fc77a10912a44a5a92eb3303c98bacdb)
+
+[Business - Payments - Subscriptions](https://www.notion.so/Business-Payments-Subscriptions-c4b4fd8e89044d118f000f899127c562)
+
+[Performance - Software Requirements, Healthkit ](https://www.notion.so/Performance-Software-Requirements-Healthkit-25396d6e460f4f3ab8f5dd649f82b6c2)
+
+[IAP Not Showing](https://developer.apple.com/forums/thread/122896)
+
+[IAP Not Showing #2](https://developer.apple.com/forums/thread/8193)
+
+[IAP Not Showing #3](https://developer.apple.com/forums/thread/103379)
+
+[IAP Guide](https://www.techotopia.com/index.php/Building_In-App_Purchasing_into_iOS_8_Swift_Applications)
+
+[How to handle shouldAddStorePayment](https://stackoverflow.com/questions/46413981/how-to-handle-shouldaddstorepayment-for-in-app-purchases-in-ios-11)
+
+[Rejected InApp Receipt Validation](https://www.notion.so/Rejected-InApp-Receipt-Validation-a8a06c769ed1468d9c3eb9be290a90a5)
+
+[Receipt Validation](https://blog.apphud.com/receipt-validation/)
+[Validating Receipt, Apple Officiel doc](https://developer.apple.com/documentation/storekit/original_api_for_in-app_purchase/validating_receipts_with_the_app_store)
+
+[Create Shared Secret Key](https://documentation.qonversion.io/docs/app-specific-shared-secret)
+
+[Validate InApp Purchases](https://yalantis.com/blog/validating-in-app-purchases-through-your-own-server/)
+
+[IAP Issue to-do-list](https://www.notion.so/IAP-Issue-to-do-list-6f7c844c169c48288f54b52349742786)
+
+[Practical Example, Validate Receipt](https://blog.apphud.com/receipt-validation/)
+
+[Validate Receipt Practical Example 2](https://mobikul.com/in-app-subscription-receipt-validation-in-ios-using-swift/) 
+
+[Validate Receipt Docs](https://adapty.io/blog/ios-in-app-purchases-part-4-server-side-purchase-validation)
+
+[Validate Receipt Stackoverflow](https://stackoverflow.com/questions/32291701/iaps-actually-validating-the-receipt-swift)
+
+# Interview 
+
+[https://github.com/yujiah-github/Tech-Stack](https://github.com/yujiah-github/Tech-Stack)
+
+[https://github.com/JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSInterviewquestions)
+
+[https://github.com/sungeunDev/iOS-Dev-Career](https://github.com/sungeunDev/iOS-Dev-Career)
+
+[https://www.udemy.com/share/102c3S3@nzQcCzSTR7Kh5Ku9BobFG5D2DapCS7bLZJfaIwM0mDhdgJXmXa8gkeCQzu3t4PNNrg==/](https://www.udemy.com/share/102c3S3@nzQcCzSTR7Kh5Ku9BobFG5D2DapCS7bLZJfaIwM0mDhdgJXmXa8gkeCQzu3t4PNNrg==/)
 
 ### Optionals
 
@@ -443,6 +668,16 @@ https://github.com/paigeshin/advanced_swift
 
 [Advanced Alamofire](https://github.com/paigeshin/advanced_alamofire)
 
+# String
+
+[String Identifier, %d, %g, %.2f](https://www.notion.so/String-Identifier-d-g-2f-b2a03e4fe335467bbe769ea495f27dcd)
+
+[swift extension, substring](https://www.notion.so/swift-extension-substring-9d77126505944a618d824c62a9377aaf)
+
+# Unit Test
+
+[https://github.com/paigeshin/Swift-Complete-Unittest-tutorial](https://github.com/paigeshin/Swift-Complete-Unittest-tutorial)
+
 # WWDC HEALTHKIT
 
 - [x]  [Getting Started with Healthkit](https://developer.apple.com/videos/play/wwdc2020/10664/)
@@ -541,3 +776,36 @@ https://github.com/paigeshin/advanced_swift
 [Singleton](https://www.notion.so/Singleton-20d53dfd263f439e8ed6edd8bddb8a70)
 
 [Entire Codes](https://www.notion.so/Entire-Codes-66630c923b8841aa96a5b36d1e8b4c3d)
+
+# Architecture 
+
+[Dependency injection & Protocol](https://www.notion.so/Dependency-Injection-Protocols-475bead129104f5cb189930142bf9b84)
+
+# Pod
+
+```bash
+# Showing Recent Messages
+# Unable to load contents of file list: '/Users/paige/Desktop/company/Pluviophile/DRDozy_SwiftUI/SleepWave/Pods/Target Support Files/Pods-SleepWave/Pods-SleepWave-frameworks-Real Release-output-files.xcfilelist'
+sudo gem update cocoapods --pre
+pod update
+
+# Other ways
+# delete 'Pods/', 'Podfile.lock', 'yourappname.xcworkspace'
+pod deintegrate
+pod install
+```
+
+```bash
+sudo gem install cocoapods-deintegrate cocoapods-clean
+pod deintegrate
+pod cache clean --all
+rm Podfile
+
+# if not working
+brew upgrade
+gem install ffi --version 1.15.4 --user-install
+```
+
+# Study
+
+[정대리 ios 자료](https://www.notion.so/iOS-a2b2ecf11b7743a9b8f7502c21b2ca82)
