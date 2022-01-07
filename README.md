@@ -94,6 +94,10 @@
 
 [Convenience init](https://www.notion.so/Convenience-init-684c28157e4d42228f7fd59197ab16bb)
 
+# Performance
+
+[our journey in reducing travelok ios apps build time](https://medium.com/traveloka-engineering/our-journey-in-reducing-traveloka-ios-apps-build-time-by-90-3f875ff9a9b7?source=userActivityShare-e26f93196089-1640668404&_branch_match_id=957890926807233297&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9bLTU3JLM3VS87P1c%2FxCsuwLHF1yslNAgCN%2FterIwAAAA%3D%3D)
+
 # Hack 
 
 [find url scheme of ios App](https://stackoverflow.com/questions/56363894/how-to-get-the-uri-scheme-of-any-app-for-applinks-universal-linking)
