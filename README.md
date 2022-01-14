@@ -1,6 +1,14 @@
 # Extension, Swift Language, Not specific to UIKit and SwiftUI
 
+[Smarter Code 5 extensions](https://levelup.gitconnected.com/5-swift-extensions-to-write-smarter-code-7287b86fde68)
+
 # Config
+
+[Modular Project](https://santoshbotre01.medium.com/modular-project-structure-with-swift-package-manager-spm-c81fb62c8619)
+
+[Ways to reduce build time](https://blog.devgenius.io/reduce-xcode-build-time-for-ios-bf43d3ca4ab8)
+
+[Application Lifecycle](https://medium.com/orion-innovation-turkey/application-life-cycle-for-ios-apps-b2fe894632f0)
 
 [Ways to configure](https://www.notion.so/Ways-to-configure-64cf18054c094b8e954d6466c71511bd)
 
@@ -37,6 +45,20 @@
 [xcconfig in detail](https://nshipster.com/xcconfig/)
 
 [How to implement App Receipt Validation](https://blog.apphud.com/receipt-validation/)
+
+[Reduce build time](https://blog.devgenius.io/reduce-xcode-build-time-for-ios-bf43d3ca4ab8)
+
+# Realm
+
+[Realm Sync](https://link.medium.com/xuSogDT9Jmb)
+
+# Rich Documentation
+
+[Rich Document xCode](https://medium.com/@i.vikas/how-to-create-rich-and-engaging-documents-like-apple-in-xcode-209bb91ea9f1)
+
+# Callkit
+
+[Callkit](https://medium.com/@adi.mizrahi/swift-callkit-and-how-we-use-it-2df1735f9c6d)
 
 # Create Library
 
@@ -97,6 +119,19 @@
 # Performance
 
 [our journey in reducing travelok ios apps build time](https://medium.com/traveloka-engineering/our-journey-in-reducing-traveloka-ios-apps-build-time-by-90-3f875ff9a9b7?source=userActivityShare-e26f93196089-1640668404&_branch_match_id=957890926807233297&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9bLTU3JLM3VS87P1c%2FxCsuwLHF1yslNAgCN%2FterIwAAAA%3D%3D)
+
+[Swift Time Profile](https://www.avanderlee.com/debugging/xcode-instruments-time-profiler/)
+
+[Instruments Common Tasks](https://zeddios.tistory.com/523)
+
+[xcode analyze](http://mtsparrow.blogspot.com/2013/04/ios-xcode-analyze.html)
+
+- `Run` will build and run the target on the selected device or simulator.
+- `Test` will build your target and run its unit tests (YourTargetNameTests.m)
+- `Profile` will build and run your target on the selected device or simulator with an Instruments tool of your choosing (Leaks, Allocations, etc.)
+- `Analyze` will build your target using the static analyzer and let you know of certain types of bugs in your code.
+
+[https://developer.apple.com/videos/play/wwdc2021/10212/](https://developer.apple.com/videos/play/wwdc2021/10212/)
 
 # Hack 
 
@@ -200,6 +235,8 @@
 
 # Localization
 
+[Advanced Localization](https://medium.com/codex/localization-workflow-in-ios-9f96b7f4388c)
+
 [Info.plist localization](https://zeddios.tistory.com/369)
 
 # Device Size
@@ -243,9 +280,9 @@
 
 # Network
 
-[URLSession retry](https://www.cuvenx.com/post/using-automatic-api-request-retries)
+[Goodbye moya & alamofire](https://ronanociosoig.medium.com/goodbye-moya-alamofire-simplify-your-dependancies-cff5dd649e91)
 
-Set Interceptor for moya
+[URLSession retry](https://www.cuvenx.com/post/using-automatic-api-request-retries)
 
 [Set Interceptor for moya code sample](https://www.notion.so/Set-Interceptor-for-moya-code-sample-159344157c0d4c379ad65f796ef7463a)
 
@@ -419,6 +456,8 @@ Set Interceptor for moya
 
 # Swift Language
 
+[Enum Tricks](https://paulohmac.medium.com/swift-enums-tricks-3d40103c5437)
+
 https://github.com/paigeshin/advanced_swift
 
 [Enum Grammar ](https://www.notion.so/Enum-Grammar-1d4770ddbdb645339e8fecbe867b83e7)
@@ -540,6 +579,8 @@ https://github.com/paigeshin/advanced_swift
 
 # Interview 
 
+[top iOS Fundamental Interview Questions](https://link.medium.com/UT0udNvuNmb)
+
 [https://github.com/yujiah-github/Tech-Stack](https://github.com/yujiah-github/Tech-Stack)
 
 [https://github.com/JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSInterviewquestions)
@@ -547,6 +588,10 @@ https://github.com/paigeshin/advanced_swift
 [https://github.com/sungeunDev/iOS-Dev-Career](https://github.com/sungeunDev/iOS-Dev-Career)
 
 [https://www.udemy.com/share/102c3S3@nzQcCzSTR7Kh5Ku9BobFG5D2DapCS7bLZJfaIwM0mDhdgJXmXa8gkeCQzu3t4PNNrg==/](https://www.udemy.com/share/102c3S3@nzQcCzSTR7Kh5Ku9BobFG5D2DapCS7bLZJfaIwM0mDhdgJXmXa8gkeCQzu3t4PNNrg==/)
+
+# Measurekit
+
+[Measure kit](https://link.medium.com/8NO3QjJuNmb)
 
 ### Optionals
 
@@ -672,6 +717,14 @@ https://github.com/paigeshin/advanced_swift
 
 [Advanced Alamofire](https://github.com/paigeshin/advanced_alamofire)
 
+# Tool
+
+[https://github.com/Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace)
+
+# Open Source
+
+[https://github.com/Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace)
+
 # String
 
 [String Identifier, %d, %g, %.2f](https://www.notion.so/String-Identifier-d-g-2f-b2a03e4fe335467bbe769ea495f27dcd)
@@ -782,6 +835,23 @@ https://github.com/paigeshin/advanced_swift
 [Entire Codes](https://www.notion.so/Entire-Codes-66630c923b8841aa96a5b36d1e8b4c3d)
 
 # Architecture 
+
+[https://medium.com/daangn/모듈화하고-needle-적용해보기-bd5e9f3c450b](https://medium.com/daangn/%EB%AA%A8%EB%93%88%ED%99%94%ED%95%98%EA%B3%A0-needle-%EC%A0%81%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0-bd5e9f3c450b)
+
+[https://medium.com/daangn/모듈화하고-needle-적용해보기-bd5e9f3c450b](https://medium.com/daangn/%EB%AA%A8%EB%93%88%ED%99%94%ED%95%98%EA%B3%A0-needle-%EC%A0%81%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0-bd5e9f3c450b)
+
+[building complex modular architectures](https://medium.com/cristian-ortega/modular-architectures-swiftui-combine-swift-package-manager-80820b4ff463?source=userActivityShare-e26f93196089-1642089459&_branch_match_id=957890926807233297&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9bLTU3JLM3VS87P1Y8yKU7xqLIM8c1NAgDvi4scIwAAAA%3D%3D)
+[Modern Modular Apps](https://link.medium.com/hs6DqGsUMmb)
+
+[Modularize an iOS App with SPM](https://betterprogramming.pub/modularize-an-ios-app-with-spm-c3f51f03bb0b) 
+
+[Modular iOS Guide](https://link.medium.com/ixspZWhVMmb)
+
+[Dynamic vs Static Modular Framework](https://zeddios.tistory.com/m/1313)
+
+[Clean Architecture with reactive usecases](https://link.medium.com/79RpcD7sNmb)
+
+[https://medium.com/daangn/모듈화하고-needle-적용해보기-bd5e9f3c450b](https://medium.com/daangn/%EB%AA%A8%EB%93%88%ED%99%94%ED%95%98%EA%B3%A0-needle-%EC%A0%81%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0-bd5e9f3c450b)
 
 [Dependency injection & Protocol](https://www.notion.so/Dependency-Injection-Protocols-475bead129104f5cb189930142bf9b84)
 
