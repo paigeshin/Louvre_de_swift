@@ -185,6 +185,37 @@
 
 [https://developer.apple.com/videos/play/wwdc2021/10212/](https://developer.apple.com/videos/play/wwdc2021/10212/)
 
+# Firebase Build
+
+[Structuring Data](https://www.notion.so/Structuring-Data-cbffd03cd70c403099bf36c26dd1124b)
+
+[resolving firebase issues with pod](https://www.notion.so/resolving-firebase-issues-with-pod-25919b31e19148ae9cc8e86649f9b35e)
+
+Fixing Firebase Issues with xCode 12
+
+- [Double Quoted Issue in Xcode 12](https://github.com/firebase/firebase-ios-sdk/issues/5987)
+- [Set Deployment Target for CocoaPods](https://www.jessesquires.com/blog/2020/07/20/xcode-12-drops-support-for-ios-8-fix-for-cocoapods/)
+
+[Pod for firestore](https://www.notion.so/Pod-for-firestore-ea25076756954c05921639eed68ccd9b)
+
+[Basic Firestore CRUD Swift](https://www.notion.so/Basic-Firestore-CRUD-Swift-6f709737456a4b9f888409790df67ea7)
+
+[https://github.com/paigeshin/SwiftUI_Firestore_CRUD](https://github.com/paigeshin/SwiftUI_Firestore_CRUD)
+
+[How to resolve Multiple Commands Produce Error](https://xodhks0113.blogspot.com/2019/11/ios-multiple-commands-produce-error.html)
+
+[Firestore CRUD Sample App](https://www.notion.so/Firestore-CRUD-Sample-App-9274845d653f41218a6d6a04790d5b60)
+
+[https://github.com/paigeshin/SwiftFirestoreCRUDSampleApp](https://github.com/paigeshin/SwiftFirestoreCRUDSampleApp)
+
+[Firebase Auth, Storage, Firestore Sample app ](https://www.notion.so/Firebase-Auth-Storage-Firestore-Sample-app-06b9e5a6a08343c9bf4556a90bf54cdc)
+
+[https://github.com/paigeshin/Firebase-Auth-Storage-Firestore-Sample-app-](https://github.com/paigeshin/Firebase-Auth-Storage-Firestore-Sample-app-)
+
+[Firestore RealTime Listener Sample App ](https://www.notion.so/Firestore-RealTime-Listener-Sample-App-05660f2059854d27880566830578bd52)
+
+[https://github.com/paigeshin/Firestore-RealTime-Listener-Sample-App-](https://github.com/paigeshin/Firestore-RealTime-Listener-Sample-App-)
+
 # Hack 
 
 [find url scheme of ios App](https://stackoverflow.com/questions/56363894/how-to-get-the-uri-scheme-of-any-app-for-applinks-universal-linking)
