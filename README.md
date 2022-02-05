@@ -1,8 +1,21 @@
 # Extension, Swift Language, Not specific to UIKit and SwiftUI
 
-[Smarter Code 5 extensions](https://levelup.gitconnected.com/5-swift-extensions-to-write-smarter-code-7287b86fde68)
-
 # Config
+
+### todolist
+
+- [x]  fastlane setup
+- [x]  create project with fastlane
+- [x]  define pre-processor values
+- [x]  define config file
+- [x]  enable code coverage
+- [x]  enable code coverage per file
+- [x]  enable test failure breakpoint
+- [x]  create separate modules
+- [x]  firebase setup
+- [x]  firebase products
+- [x]  setup .gitignore
+- [x]  initialize git
 
 [Modular Project](https://santoshbotre01.medium.com/modular-project-structure-with-swift-package-manager-spm-c81fb62c8619)
 
@@ -48,13 +61,19 @@
 
 [Reduce build time](https://blog.devgenius.io/reduce-xcode-build-time-for-ios-bf43d3ca4ab8)
 
-# Realm
+# Info.plist
 
-[Realm Sync](https://link.medium.com/xuSogDT9Jmb)
+[Custom App Bar Color](https://www.notion.so/Custom-App-Bar-Color-3b2baae3ae864714a85a191fa05de301)
 
 # Rich Documentation
 
 [Rich Document xCode](https://medium.com/@i.vikas/how-to-create-rich-and-engaging-documents-like-apple-in-xcode-209bb91ea9f1)
+
+# Extensions
+
+[Smarter Code 5 extensions](https://levelup.gitconnected.com/5-swift-extensions-to-write-smarter-code-7287b86fde68)
+
+https://www.notion.so/UIImage-Resized-Keeping-Aspect-Ratio-dcbb930e3cec4ff082abc9fce77676bf
 
 # Callkit
 
@@ -143,6 +162,24 @@
 [App Review Request](https://www.notion.so/App-Review-Request-a6787596429945d89d175c0c5828ced1)
 
 [Open other app](https://www.notion.so/Open-other-app-05e5d28b60514ebbae878f1317ee1871)
+
+# Language 
+
+[Class Principle](https://github.com/paigeshin/swift_class_principle/blob/main/README.md)
+
+[Clean Code Guide](https://github.com/paigeshin/swift_clean_code_guide)
+
+# AVPlayer
+
+[Fade Volume](https://evandro-hoffmann.medium.com/fading-volume-with-avplayer-in-swift-74cbcc6172c6)
+
+# Custom Fonts
+
+[Custom Fonts](https://www.notion.so/Custom-Fonts-7dd446b13df448a4b82a2c316c07e07c)
+
+# Location 
+
+[How to get current user location](https://www.notion.so/How-to-get-current-user-location-2e9399aba3ba4f2c918ab1dd13592179)
 
 # Grammar
 
@@ -252,6 +289,8 @@ Fixing Firebase Issues with xCode 12
 
 # Combine 
 
+[Combine RealWorld Example](https://github.com/paigeshin/Practical-Combine-Example)
+
 [Combine Framework  Tutorial](https://www.notion.so/Combine-Framework-Tutorial-8dd1f85df2d34e4a9e3c3dbee4188044)
 
 # Date 
@@ -286,6 +325,14 @@ Fixing Firebase Issues with xCode 12
 
 [Pod deintegration](https://www.notion.so/Pod-deintegration-d739825f4bdf46bab5ead5480aecfff3)
 
+# TDD
+
+[Why TDD, Swift](https://github.com/paigeshin/WhyTDD-Swift/blob/main/README.md)
+
+[Class Principle](https://github.com/paigeshin/swift_class_principle/blob/main/README.md)
+
+[SwiftUI UITest Basic, DI through factory](https://github.com/paigeshin/SwiftDIThroughFactoryAndUITest/blob/main/README.md)
+
 # Watch
 
 [heartrate from watch to app](https://stackoverflow.com/questions/53780808/how-to-get-heart-rate-data-near-by-real-time-from-health-kit-in-ios)
@@ -315,6 +362,16 @@ Fixing Firebase Issues with xCode 12
 [ios background task](https://swiftuirecipes.com/blog/networking-with-background-tasks-in-ios-13)
 
 [Info.plist localization](https://zeddios.tistory.com/369)
+
+# Data Persistence
+
+[Realm Sync](https://link.medium.com/xuSogDT9Jmb)
+
+[CoreData vs Realm](https://agilie.com/en/blog/coredata-vs-realm-what-to-choose-as-a-database-for-ios-apps)
+
+[Using Realm Browser](https://sweetcoding.tistory.com/63)
+
+[https://docs.mongodb.com/realm/sdk/swift/](https://docs.mongodb.com/realm/sdk/swift/)
 
 # Localization
 
@@ -462,6 +519,30 @@ Fixing Firebase Issues with xCode 12
 
 # InApp
 
+[Apple doc](https://developer.apple.com/documentation/storekit/original_api_for_in-app_purchase/validating_receipts_with_the_app_store)
+
+[Expiration Intent](https://developer.apple.com/documentation/appstorereceipts/expiration_intent)
+
+[Choosing a Receipt Validation Technique](https://developer.apple.com/documentation/storekit/original_api_for_in-app_purchase/choosing_a_receipt_validation_technique)
+
+[Validate Receipts Locally](https://betterprogramming.pub/how-to-validate-ios-in-app-purchase-receipts-locally-ce57ba752cae)
+
+[Receipt Local Validation](https://medium.com/@andrewcbancroft/local-receipt-validation-for-ios-in-swift-from-start-to-finish-72df496d8c8d)
+
+[Implementing Receipt Validation](https://stackoverflow.com/questions/39711350/implementing-receipt-validation-in-swift-3)
+
+[**Subscription receipts and storekit in iOS 14, medium**](https://betterprogramming.pub/subscriptions-receipts-and-storekit-in-ios-14-16194eb93963)
+
+[**Simple Version, get expiration date**](https://www.logisticinfotech.com/blog/ios-swift-in-app-subscription-with-receipt-validation/)
+
+[Flow](https://stackoverflow.com/questions/68059703/ios-how-to-get-transaction-id-or-receipt-data-after-successful-in-app-purchase)
+
+**[ReceiptValidation](https://www.apptects.de/blog/receipt_validation/)**
+
+[Refresh Receipts](https://stackoverflow.com/questions/37566579/ios-test-app-receipt-validation)
+
+[Receive Server Notification When InApp Purchase happened or Cancelled](https://developer.apple.com/documentation/appstoreservernotifications)
+
 [In App Purchase](https://www.notion.so/In-App-Purchase-bc8cd4b0989945cca6e90b3346e66115)
 
 [Business - Payments - Subscriptions](https://www.notion.so/Business-Payments-Subscriptions-c4b4fd8e89044d118f000f899127c562)
@@ -512,6 +593,17 @@ Fixing Firebase Issues with xCode 12
 [About App Promo Code](https://www.apptamin.com/blog/app-promo-codes/)
 
 [How users use App Promo Code](https://hayhouse.zendesk.com/hc/en-us/articles/115014498788-How-Do-I-Redeem-Promo-Codes-for-iTunes-App-Store-)
+
+### Local Validation checklist
+
+- Validate the certificate used to sign the receipt was Apple
+- Validate the receipt was issued by the app inspecting it
+- Validate the receipt was issued by the same version of the app inspecting it
+- Validate the receipt was issued by the device inspecting it
+
+### Retention offer
+
+Regard the `pending_renewal_info`. This is currently set to `1` or `true`. Now if this changed to `false` at some point when they’re using your app, then it’d be a good time to make a retention offer.
 
 # ML
 
@@ -672,9 +764,69 @@ https://github.com/paigeshin/advanced_swift
 
 [https://www.udemy.com/share/102c3S3@nzQcCzSTR7Kh5Ku9BobFG5D2DapCS7bLZJfaIwM0mDhdgJXmXa8gkeCQzu3t4PNNrg==/](https://www.udemy.com/share/102c3S3@nzQcCzSTR7Kh5Ku9BobFG5D2DapCS7bLZJfaIwM0mDhdgJXmXa8gkeCQzu3t4PNNrg==/)
 
+# Deeplink
+
+[Open Another App Youtube Link](https://www.youtube.com/watch?v=5UOSjB77JK8&t=538s)
+
+[Open Another App or show store](https://www.notion.so/Open-Another-App-or-show-store-d0011085b5864c50b2012f0dd59433ed)
+
+[https://github.com/paigeshin/UIKit-Linking-Another-App-Or-Open-AppStore](https://github.com/paigeshin/UIKit-Linking-Another-App-Or-Open-AppStore)
+
+[Custom URL Scheme, Apple Official Doc](https://developer.apple.com/documentation/xcode/defining-a-custom-url-scheme-for-your-app)
+
+[https://github.com/paigeshin/UIKit-Linking-Another-App-Or-Open-AppStore/blob/master/README.md](https://github.com/paigeshin/UIKit-Linking-Another-App-Or-Open-AppStore/blob/master/README.md)
+
+[Handle incoming url](https://www.notion.so/Handle-incoming-url-b9978d3b3d0549d7be87dc9ff6e2bc83)
+
+[Youtube Tutorial for URLSchemes](https://www.youtube.com/watch?v=IEXn7QIwPFo)
+
+[Universal Link Blog Tutorial](https://hyesunzzang.tistory.com/189)
+
+[SwiftUI Deep Link](https://www.notion.so/SwiftUI-Deep-Link-8f2e9d3bbf0f4ec4a3729b62b268ad12)
+
+[https://github.com/paigeshin/SwiftUI-DeepLink](https://github.com/paigeshin/SwiftUI-DeepLink)
+
+[SwiftUI Firebase Cloud Messaging Youtube Tutorial](https://www.youtube.com/watch?v=3rRdXvXAsFs)
+
+[SwiftUI Deeplink Youtube Tutorial](https://www.youtube.com/watch?v=3MTchq5EI2o&t=622s)
+
+[SwiftUI Notifications with Action Youtube Tutorial](https://www.youtube.com/watch?v=BW9dVMNNpkY)
+
+[DeepLink App Push](https://ios-development.tistory.com/722?category=899471)
+
+[DeepLink URL Scheme, URL Components](https://ios-development.tistory.com/723)
+
+[DeepLink FCM](https://ios-development.tistory.com/724)
+
+[Dynamic Link](https://ios-development.tistory.com/726)
+
+[URL Scheme & Dynamic Link](https://ios-development.tistory.com/725)
+
+[UserNotifications Actions SwiftUI ](https://www.notion.so/UserNotifications-Actions-SwiftUI-058bb877ba3f4f1ab9b9cfd01197c4f2)
+
+[https://github.com/paigeshin/SwiftUI_NOTIFICATION_with_ACTION](https://github.com/paigeshin/SwiftUI_NOTIFICATION_with_ACTION)
+
+# Terminal
+
+[Create Swift Package](https://eunjin3786.tistory.com/110)
+
+[Swift Commands](https://mahmudahsan.medium.com/running-and-compiling-swift-code-in-terminal-237ee4087a9c)
+
+[Swift Package Unit Testing](https://forums.swift.org/t/swiftpm-and-library-unit-testing/26255)
+
 # Measurekit
 
 [Measure kit](https://link.medium.com/8NO3QjJuNmb)
+
+# Swift Package Manager
+
+[https://www.swift.org/package-manager/](https://www.swift.org/package-manager/)
+
+[**https://santoshbotre01.medium.com/modular-project-structure-with-swift-package-manager-spm-c81fb62c8619](https://santoshbotre01.medium.com/modular-project-structure-with-swift-package-manager-spm-c81fb62c8619) ⇒** Modular Project Structure
+
+[**https://developer.apple.com/documentation/xcode/creating_a_standalone_swift_package_with_xcode**](https://developer.apple.com/documentation/xcode/creating_a_standalone_swift_package_with_xcode) ⇒ Official Doc 
+
+[Swift Package Unit Testing](https://forums.swift.org/t/swiftpm-and-library-unit-testing/26255)
 
 # Clean Code
 
@@ -903,9 +1055,67 @@ https://github.com/paigeshin/advanced_swift
 
 [https://github.com/paigeshin/BriefSummaryOfDesignPatterns](https://github.com/paigeshin/BriefSummaryOfDesignPatterns)
 
+# Deployment
+
+[Fastlane Official Doc](https://github.com/paigeshin/SwiftUI-DeepLink)
+
+[Fastlane Tutorial](https://www.youtube.com/watch?v=N_NwcDO_S_s)
+
+[Fastlane Tutorial, not complete..](https://www.notion.so/Fastlane-Tutorial-not-complete-810a737800584d878ca3bb233e7c525c)
+
+[Step by step, fastlane guide, not complete..](https://www.notion.so/Step-by-step-fastlane-guide-not-complete-776a83daabd04a20819f74832f377d3c)
+
+[Raywendish Fastlane](https://www.raywenderlich.com/233168-fastlane-tutorial-getting-started)
+
+[Fastlane Tutorial in Korean](https://devmjun.github.io/archive/Fastlane)
+
+[More Recent Tutorial](https://www.runway.team/blog/how-to-build-the-perfect-fastlane-pipeline-for-ios)
+
+[CI CD tools 비교](https://nsios.tistory.com/92)
+
+[ci cd 기본 개념](https://ios-development.tistory.com/422?category=936128)
+
+[fastlane으로 스크린샷 찍기](https://ios-development.tistory.com/304?category=936128)
+
+[fastlane tutorial](https://ios-development.tistory.com/303?category=936128)
+
+[Medium Fastlane Article](https://medium.com/@koromikoneo/build-it-test-it-deliver-it-complete-ios-guide-on-continuous-delivery-with-fastlane-and-jenkins-cbe44e996ac5)
+
+[gitlab tutorial](https://www.youtube.com/watch?v=Jt4Z1vwtXT0&list=PLhW3qG5bs-L8YSnCiyQ-jD8XfHC2W1NL_)
+
+[CI CD Part 1](https://medium.com/@cherrmann.com/continuous-integration-and-delivery-for-ios-with-jenkins-and-fastlane-part-1-3b17f1901a73)
+
+- ***[produce](https://github.com/fastlane/fastlane/tree/master/produce)*** creates new iOS apps in both App Store Connect and the Apple Developer Portal.
+- ***[cert](https://github.com/fastlane/fastlane/tree/master/cert)*** automatically creates and maintains iOS code-signing certificates.
+- ***[sigh](https://github.com/fastlane/fastlane/tree/master/sigh)*** creates, renews, downloads and repairs provisioning profiles.
+- ***[snapshot](https://github.com/fastlane/fastlane/tree/master/snapshot)*** automates taking localized screenshots of your iOS app on every device.
+- ***[frameit](https://github.com/fastlane/fastlane/tree/master/frameit)*** puts your screenshots into the right device frames.
+- ***[gym](https://github.com/fastlane/fastlane/tree/master/gym)*** builds and packages your iOS apps.
+- ***[deliver](https://github.com/fastlane/fastlane/tree/master/deliver)*** uploads screenshots, metadata and your apps to the App Store.
+- ***[pem](https://github.com/fastlane/fastlane/tree/master/pem)*** automatically generates and renews your push notification profiles.
+- ***[spaceship](https://github.com/fastlane/fastlane/tree/master/spaceship)*** is a Ruby library able to access the Apple Developer Center and App Store Connect APIs.
+- ***[pilot](https://github.com/fastlane/fastlane/tree/master/pilot)*** automates TestFlight deployments and manages beta testers.
+- ***[boarding](https://github.com/fastlane/boarding)*** invites beta testers.
+- ***[match](https://github.com/fastlane/fastlane/tree/master/match)*** syncs certificates and provisioning profiles across your team, using Git.
+- ***[scan](https://github.com/fastlane/fastlane/tree/master/scan)*** runs tests on your apps.
+
+[fastlane workflow - not done ](https://www.notion.so/fastlane-workflow-not-done-14290e25cf25407c8b30fcbff66c1746)
+
+[Fastlane Commands](https://www.notion.so/Fastlane-Commands-0b779f27f5ae44f68d3c3e2ca69b6fb8)
+
+[Fastlane My Own Summary](https://www.notion.so/Fastlane-My-Own-Summary-4e89ed21aa3c4d7cab7c1b2a62276eb8)
+
+[FASTLANE WORKFLOW](https://www.notion.so/FASTLANE-WORKFLOW-7ab6010a83894fadbd51e7ab4739ca09)
+
+[Creating a Distribution Certificate and .p12 file](https://support.magplus.com/hc/en-us/articles/203808748-iOS-Creating-a-Distribution-Certificate-and-p12-File)
+
+[git action #1](https://ios-development.tistory.com/788)
+
+[git action #2](https://ios-development.tistory.com/789)
+
 # Objc 
 
-# Basics
+### Basics
 
 [Alert with OBJC](https://www.notion.so/Alert-with-OBJC-dbf2e411be04470ca13060996ed77f93)
 
@@ -973,6 +1183,12 @@ https://github.com/paigeshin/advanced_swift
 [https://medium.com/daangn/모듈화하고-needle-적용해보기-bd5e9f3c450b](https://medium.com/daangn/%EB%AA%A8%EB%93%88%ED%99%94%ED%95%98%EA%B3%A0-needle-%EC%A0%81%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0-bd5e9f3c450b)
 
 [Dependency injection & Protocol](https://www.notion.so/Dependency-Injection-Protocols-475bead129104f5cb189930142bf9b84)
+
+# Blogger
+
+[운딩](https://eunjin3786.tistory.com/110)
+
+[김종권 iOS](https://ios-development.tistory.com/)
 
 # Pod
 
