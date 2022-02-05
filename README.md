@@ -149,6 +149,13 @@ https://www.notion.so/UIImage-Resized-Keeping-Aspect-Ratio-dcbb930e3cec4ff082abc
 
 [https://github.com/paigeshin/combine_sample_project_hackersnews](https://github.com/paigeshin/combine_sample_project_hackersnews)
 
+
+# Offline First 
+
+[https://www.bsgroup.eu/blog/6-key-considerations-make-offline-first-app/](https://www.bsgroup.eu/blog/6-key-considerations-make-offline-first-app/)
+
+[https://stackoverflow.com/questions/46441643/how-cloudkit-sync-with-multiple-devices](https://stackoverflow.com/questions/46441643/how-cloudkit-sync-with-multiple-devices)
+
 # Functionality - Functions 
 
 [go to settings](https://www.notion.so/SwiftUI-go-to-settings-e191999d899b4c0ea04bbe2d92040a6b)
