@@ -97,6 +97,10 @@ https://www.notion.so/UIImage-Resized-Keeping-Aspect-Ratio-dcbb930e3cec4ff082abc
 
 [Swift, Create Local Package - on notion](https://www.notion.so/Swift-Create-Local-Package-535a6cf8d88949cd90571943d0225598)
 
+# Network Layer
+
+https://medium.com/better-programming/async-await-generic-network-layer-with-swift-5-5-2bdd51224ea9
+
 # Combine
 
 [Publisher & Subscription & subjects ](https://www.notion.so/Publisher-Subscription-subjects-4a5975dc0f804966b7fbfdfd2c650185)
