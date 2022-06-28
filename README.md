@@ -2,6 +2,8 @@
 
 # Config
 
+[Workspace vs Projects vs Target vs Scheme](https://stackoverflow.com/questions/20637435/xcode-what-is-a-target-and-scheme-in-plain-language)
+
 ### todolist
 
 - [x]  fastlane setup
